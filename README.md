@@ -23,7 +23,7 @@ apt-get install git
 git clone https://github.com/Anton-ai111/DDos-HAT.git
 cd DDos-HAT
 bash setup.sh
-python3 RDDoS_Tool.py
+python3 DDoS-HAT.py
 ```
 
 ## Errors? Troubleshooting is here:
