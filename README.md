@@ -1,11 +1,11 @@
 # DDos-HAT
 DDos-HAT made by Anton Hrlić and Marko Č
-## What is RedDDoS Tool?
+## What is DDoS-HAT Tool?
 ```diff
 ! This is the best tool for DDoS attacks on github.
 ```
 
- _RedDDoS Tool_ is a tool for DDoS attacks. You can test networks/servers/any other devices with it.
+ _DDoS-HAT Tool_ is a tool for DDoS attacks. You can test networks/servers/any other devices with it.
 
 ## How it Works? 
  It sends continuous packets to the target. This attack is known as _DDoS attack_.
@@ -20,15 +20,10 @@ DDos-HAT made by Anton Hrlić and Marko Č
 ```
 apt-get update -y
 apt-get install git
-git clone https://github.com/Red-company/RDDoS_Tool.git
-cd RDDoS_Tool
+git clone https://github.com/Anton-ai111/DDos-HAT.git
+cd DDos-HAT
 bash setup.sh
 python3 RDDoS_Tool.py
-```
-
-## One line Installation:
-```
-apt-get update -y && apt-get install git && git clone https://github.com/Red-company/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
 ```
 
 ## Errors? Troubleshooting is here:
@@ -44,3 +39,7 @@ This tool must be used in educational purposes only. Your decisions are not our 
 
 ##
 All material in this repository is in the public domain.
+
+## Support me in bitcoin
+
+send me: bc1qf9e7jah3e226f04976nl5tsm27rrh7slpure8w
